@@ -1,3 +1,7 @@
+window.onload = function() {
+    alert("This site is still under development");    
+};
+
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
     navToggle = document.getElementById('nav-toggle'),

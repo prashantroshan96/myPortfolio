@@ -1,5 +1,5 @@
 window.onload = function() {
-    alert("This site is still under development");    
+    Swal.fire('This site is still under development')
 };
 
 /*==================== MENU SHOW Y HIDDEN ====================*/
